@@ -1,2 +1,1 @@
-# Where-MyHome
-A full-stack cat adoption platform built as a university project using HTML, CSS, JavaScript, Node.js, and Express.js.
+Where My Home is a full-stack web application developed as part of a university project. The platform is designed to facilitate cat adoption by allowing users to browse cats, view their details, and send adoption requests. It includes user authentication, interactive UI, and a backend server to manage application data and logic.
